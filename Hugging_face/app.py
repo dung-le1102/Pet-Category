@@ -32,4 +32,4 @@ label = gr.Label()
 examples = ['dog.jpg','bulldog.jpeg','chihuahua.jpg','sphynx.jpeg']
 
 intf= gr.Interface(fn = classify_img, inputs = image, outputs =label,theme='JohnSmith9982/small_and_pretty',title=title,description=description ,examples = examples)
-intf.launch(inline = False)
+intf.launch()
