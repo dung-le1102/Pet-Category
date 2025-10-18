@@ -1,0 +1,11 @@
+convnext_model.pkl.psd filter=lfs diff=lfs merge=lfs -text
+convnext_model.pkl filter=lfs diff=lfs merge=lfs -text
+convnext_model2.pkl filter=lfs diff=lfs merge=lfs -text
+dog.jpeg filter=lfs diff=lfs merge=lfs -text
+dog.jpg filter=lfs diff=lfs merge=lfs -text
+Pet[[:space:]]category[[:space:]].ipynb filter=lfs diff=lfs merge=lfs -text
+Pet_category.ipynb filter=lfs diff=lfs merge=lfs -text
+Hugging[[:space:]]face/Pet_category.ipynb filter=lfs diff=lfs merge=lfs -text
+Hugging[[:space:]]face/convnext_model.pkl filter=lfs diff=lfs merge=lfs -text
+Hugging[[:space:]]face/convnext_model2.pkl filter=lfs diff=lfs merge=lfs -text
+Hugging[[:space:]]face/dog.jpg filter=lfs diff=lfs merge=lfs -text
