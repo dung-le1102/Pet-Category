@@ -2,3 +2,4 @@ fastai==2.7.12
 fastbook
 timm
 gradio
+numpy==1.26.4
