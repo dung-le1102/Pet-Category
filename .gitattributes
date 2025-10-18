@@ -9,3 +9,5 @@ Hugging[[:space:]]face/Pet_category.ipynb filter=lfs diff=lfs merge=lfs -text
 Hugging[[:space:]]face/convnext_model.pkl filter=lfs diff=lfs merge=lfs -text
 Hugging[[:space:]]face/convnext_model2.pkl filter=lfs diff=lfs merge=lfs -text
 Hugging[[:space:]]face/dog.jpg filter=lfs diff=lfs merge=lfs -text
+resnet34_model.pkl filter=lfs diff=lfs merge=lfs -text
+resnet34_model2.pkl filter=lfs diff=lfs merge=lfs -text
